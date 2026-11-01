@@ -1,0 +1,33 @@
+
+# Environment variables and secrets
+.env
+.env.*
+
+# Python virtual environments
+venv/
+llmapp/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# IDE files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Testing and coverage
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Docker
+.docker/
