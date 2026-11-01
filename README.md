@@ -27,6 +27,13 @@ An autonomous multi-agent AI platform powered by LangGraph, Groq, and Tavily tha
 
 Built with **Python, Flask, LangGraph, Groq, and Tavily**, it coordinates specialized AI agents through structured workflows to transform user instructions into meaningful results.
 
+
+## 🚀 Live Demo
+
+- **Live Application:** https://nexusai-multi-agent-platform.onrender.com/
+- **GitHub Repository:** https://github.com/prajapatishubham336/NexusAI-Multi-Agent-Platform
+
+> **Note:** The application is hosted on Render's free instance. It may spin down after inactivity, so the first request may take a little longer to load.
 <img width="1351" height="638" alt="image" src="https://github.com/user-attachments/assets/ef102e01-31e5-4f1e-bfe3-e051f36f5e40" />
 
 
